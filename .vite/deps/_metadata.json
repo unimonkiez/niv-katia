@@ -1,0 +1,88 @@
+{
+  "hash": "e38584e7",
+  "configHash": "a26a7380",
+  "lockfileHash": "e3b0c442",
+  "browserHash": "df6bd852",
+  "optimized": {
+    "@slidev/cli > @slidev/client > @typescript/ata": {
+      "src": "../../node_modules/.deno/@typescript+ata@0.9.7/node_modules/@typescript/ata/dist/index.js",
+      "file": "@slidev_cli___@slidev_client___@typescript_ata.js",
+      "fileHash": "29b8eeb4",
+      "needsInterop": false
+    },
+    "@slidev/cli > @slidev/client > file-saver": {
+      "src": "../../node_modules/.deno/file-saver@2.0.5/node_modules/file-saver/dist/FileSaver.min.js",
+      "file": "@slidev_cli___@slidev_client___file-saver.js",
+      "fileHash": "dcefecad",
+      "needsInterop": true
+    },
+    "@slidev/cli > @slidev/client > lz-string": {
+      "src": "../../node_modules/.deno/lz-string@1.5.0/node_modules/lz-string/libs/lz-string.js",
+      "file": "@slidev_cli___@slidev_client___lz-string.js",
+      "fileHash": "6c8cab28",
+      "needsInterop": true
+    },
+    "@slidev/cli > @slidev/client > prettier": {
+      "src": "../../node_modules/.deno/prettier@3.3.3/node_modules/prettier/standalone.mjs",
+      "file": "@slidev_cli___@slidev_client___prettier.js",
+      "fileHash": "bdfb4f58",
+      "needsInterop": false
+    },
+    "@slidev/cli > @slidev/client > recordrtc": {
+      "src": "../../node_modules/.deno/recordrtc@5.6.2/node_modules/recordrtc/RecordRTC.js",
+      "file": "@slidev_cli___@slidev_client___recordrtc.js",
+      "fileHash": "d6b8ec30",
+      "needsInterop": true
+    },
+    "@slidev/cli > @slidev/client > typescript": {
+      "src": "../../node_modules/.deno/typescript@5.6.3/node_modules/typescript/lib/typescript.js",
+      "file": "@slidev_cli___@slidev_client___typescript.js",
+      "fileHash": "2f9b6729",
+      "needsInterop": true
+    },
+    "@slidev/cli > @slidev/client > yaml": {
+      "src": "../../node_modules/.deno/yaml@2.6.0/node_modules/yaml/browser/index.js",
+      "file": "@slidev_cli___@slidev_client___yaml.js",
+      "fileHash": "f9e98ab0",
+      "needsInterop": false
+    },
+    "@slidev/cli > @slidev/client > html-to-image": {
+      "src": "../../node_modules/.deno/html-to-image@1.11.11/node_modules/html-to-image/es/index.js",
+      "file": "@slidev_cli___@slidev_client___html-to-image.js",
+      "fileHash": "5f7f60ba",
+      "needsInterop": false
+    },
+    "file-saver": {
+      "src": "../../node_modules/.deno/file-saver@2.0.5/node_modules/file-saver/dist/FileSaver.min.js",
+      "file": "file-saver.js",
+      "fileHash": "f85f9e1f",
+      "needsInterop": true
+    },
+    "html-to-image": {
+      "src": "../../node_modules/.deno/html-to-image@1.11.11/node_modules/html-to-image/es/index.js",
+      "file": "html-to-image.js",
+      "fileHash": "624a5092",
+      "needsInterop": false
+    },
+    "recordrtc": {
+      "src": "../../node_modules/.deno/recordrtc@5.6.2/node_modules/recordrtc/RecordRTC.js",
+      "file": "recordrtc.js",
+      "fileHash": "5ba100a7",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-KQ5UALHE": {
+      "file": "chunk-KQ5UALHE.js"
+    },
+    "chunk-FEJAJWNY": {
+      "file": "chunk-FEJAJWNY.js"
+    },
+    "chunk-ANPRN5WG": {
+      "file": "chunk-ANPRN5WG.js"
+    },
+    "chunk-FM7WUVZV": {
+      "file": "chunk-FM7WUVZV.js"
+    }
+  }
+}

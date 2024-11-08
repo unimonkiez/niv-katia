@@ -1,0 +1,9 @@
+{
+    "nodeModulesDir": "auto",
+    "imports": {
+        "@slidev/cli": "npm:@slidev/cli@^0.50.0-beta.5",
+        "@slidev/theme-default": "npm:@slidev/theme-default@latest",
+        "@slidev/theme-seriph": "npm:@slidev/theme-seriph@latest",
+        "vue": "npm:vue@^3.5.12"
+    }
+}
