@@ -3,5 +3,5 @@ build:
 start:
 	deno run -A ./node_modules/@slidev/cli/bin/slidev.mjs --open
 export:
-	deno run -A ./node_modules/@slidev/cli/bin/slidev.mjs build *.md
+	deno run -A ./node_modules/@slidev/cli/bin/slidev.mjs build *.md --base /niv-katia/
 	
